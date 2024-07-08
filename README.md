@@ -1,7 +1,7 @@
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢做产品，喜欢分享技术知识，全栈开发者。&author=往事随風ovo"  />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢做产品，喜欢分享技术知识，全栈开发者。&author=往事随風ovo&border=true"  />
 
-## Java Backend Boy 👋
+<!-- ## Java Backend Boy 👋 -->
 
 <!--
 **wk-cloud/wk-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
