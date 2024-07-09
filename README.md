@@ -1,5 +1,7 @@
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢做产品，喜欢分享技术知识，全栈开发者。&author=往事随風ovo&border=true"  />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=程序员，喜欢写代码，喜欢做产品，喜欢分享技术知识，全栈开发者。&author=往事随風ovo&border=true"  />
+</p>
 
 <!-- ## Java Backend Boy 👋 -->
 
